@@ -95,7 +95,7 @@ def get_stream(headers, set, bearer_token):
 
 def parseParameters():
     # Create the parser
-    arg_parser = argparse.ArgumentParser(description='List the content of a folder')
+    arg_parser = argparse.ArgumentParser(description='Lists Location of the tweets based on the Hashtag')
 
     # Add the arguments
     arg_parser.add_argument('hashtag',
