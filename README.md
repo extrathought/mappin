@@ -41,6 +41,4 @@ We'd love to get patches from you!
 By contributing your code, you agree to license your contribution under the
 terms of the APLv2: https://github.com/twitter/repo-scaffolding/blob/master/LICENSE
 
-## Code of Conduct
-
-Read our [Code of Conduct](CODE_OF_CONDUCT.md) for the project.
+Based on https://github.com/twitterdev/real-time-tweet-streamer.git
