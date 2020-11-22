@@ -1,20 +1,4 @@
-# Real-Time Tweet Streamer
-
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/twitterdev/remote-dev-jobs-streamer" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://twitter.com/tonyv00" target="_blank">
-    <img alt="Twitter: tonyv00" src="https://img.shields.io/twitter/follow/tonyv00.svg?style=social" />
-  </a>
-</p>
-
-> An example app to stream Tweets in real-time using the filtered stream endpoints and Tweet annotations to listen for Tweets based on your own topics of interest. See the [tutorial](https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets) for some real life examples of how this can be used and a step by step on how to build this app on your own.
-
-### 🏠 [Guided tutorial](https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets)
-
-### ✨ [Glitch Demo](https://glitch.com/~twitter-real-time-tweet-streamer)
+# Mapping Tweets
 
 ## Prerequisites
 
@@ -47,13 +31,6 @@ export TWITTER_BEARER_TOKEN=<REPLACE WITH YOUR BEARER TOKEN INCLUDING ANGLE BRAC
 npm start
 ```
 
-## Author
-
-👤 **Tony Vu**
-
-- Website: https://twitter.com/tonyv00
-- Twitter: [@tonyv00](https://twitter.com/tonyv00)
-- Github: [@tonyv](https://github.com/tonyv)
 
 # How to Contribute
 

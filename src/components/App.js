@@ -18,7 +18,7 @@ class App extends React.Component {
             alt="Twitter Logo"
           />
           <div className="content">
-            Real Time Tweet Streamer
+            Mapping Tweets
             <div className="sub header">Powered by Twitter data</div>
           </div>
         </h1>
@@ -27,7 +27,7 @@ class App extends React.Component {
           <BrowserRouter>
             <Navbar />
             <Route exact path="/" component={RuleList} />
-            <Route exact path="/rules" component={RuleList} />
+             <Route exact path="/rules" component={RuleList} /> 
             <Route exact path="/tweets" component={TweetFeed} />
           </BrowserRouter>
         </div>

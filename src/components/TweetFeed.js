@@ -124,7 +124,7 @@ const TweetFeed = () => {
       return (
         <React.Fragment>
           {tweets.map((tweet) => (
-            <Tweet key={tweet.data.id} json={tweet} />
+            <Tweet key={tweet.data} json={tweet} />
           ))}
         </React.Fragment>
       );
